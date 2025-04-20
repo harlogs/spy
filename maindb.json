@@ -1,0 +1,71 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "5f4dcc3b5aa765d61d8327deb882cf99",
+    "loginToken": "6cc64e4a6211bb899b60ddfc8d3179eb",
+    "logs": [
+      {
+        "time": "2020-01-11T15:23:07.971Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2025-04-06T05:38:38.149Z",
+        "type": "ERROR",
+        "message": "Build Failed - Build Command Failed - Command failed: java -jar \"/Users/apple/Downloads/XploitSPY-master/server/app/factory/apktool.jar\" b \"/Users/apple/Downloads/XploitSPY-master/server/app/factory/decompiled\" -o \"/Users/apple/Downloads/XploitSPY-master/server/assets/webpublic/build.apk\"\nThe operation couldn’t be completed. Unable to locate a Java Runtime.\nPlease visit http://www.java.com for information on installing Java.\n\n"
+      },
+      {
+        "time": "2025-04-06T05:38:54.059Z",
+        "type": "ERROR",
+        "message": "Build Failed - Build Command Failed - Command failed: java -jar \"/Users/apple/Downloads/XploitSPY-master/server/app/factory/apktool.jar\" b \"/Users/apple/Downloads/XploitSPY-master/server/app/factory/decompiled\" -o \"/Users/apple/Downloads/XploitSPY-master/server/assets/webpublic/build.apk\"\nThe operation couldn’t be completed. Unable to locate a Java Runtime.\nPlease visit http://www.java.com for information on installing Java.\n\n"
+      },
+      {
+        "time": "2025-04-06T05:42:55.289Z",
+        "type": "ERROR",
+        "message": "Build Failed - Build Command Failed - Command failed: java -jar \"/Users/apple/Downloads/XploitSPY-master/server/app/factory/apktool.jar\" b \"/Users/apple/Downloads/XploitSPY-master/server/app/factory/decompiled\" -o \"/Users/apple/Downloads/XploitSPY-master/server/assets/webpublic/build.apk\"\nS: WARNING: Could not write to (/Users/apple/Library/apktool/framework), using /var/folders/2x/dnmfc5h91jb5gwxw2ythwwwm0000gn/T/ instead...\nS: Please be aware this is a volatile directory and frameworks could go missing, please utilize --frame-path if the default storage directory is unavailable\nbrut.androlib.AndrolibException: brut.common.BrutException: could not exec: [/var/folders/2x/dnmfc5h91jb5gwxw2ythwwwm0000gn/T/brut_util_Jar_7728661292890993527.tmp, p, --forced-package-id, 127, --min-sdk-version, 14, --target-sdk-version, 21, --version-code, 1, --version-name, 1.0, --no-version-vectors, -F, /var/folders/2x/dnmfc5h91jb5gwxw2ythwwwm0000gn/T/APKTOOL8260204121913001388.tmp, -0, resources.arsc, -0, png, -0, arsc, -I, /var/folders/2x/dnmfc5h91jb5gwxw2ythwwwm0000gn/T/1.apk, -S, /Users/apple/Downloads/XploitSPY-master/server/app/factory/decompiled/res, -M, /Users/apple/Downloads/XploitSPY-master/server/app/factory/decompiled/AndroidManifest.xml]\n"
+      },
+      {
+        "time": "2025-04-06T05:43:08.501Z",
+        "type": "ERROR",
+        "message": "Build Failed - Build Command Failed - Command failed: java -jar \"/Users/apple/Downloads/XploitSPY-master/server/app/factory/apktool.jar\" b \"/Users/apple/Downloads/XploitSPY-master/server/app/factory/decompiled\" -o \"/Users/apple/Downloads/XploitSPY-master/server/assets/webpublic/build.apk\"\nS: WARNING: Could not write to (/Users/apple/Library/apktool/framework), using /var/folders/2x/dnmfc5h91jb5gwxw2ythwwwm0000gn/T/ instead...\nS: Please be aware this is a volatile directory and frameworks could go missing, please utilize --frame-path if the default storage directory is unavailable\nbrut.androlib.AndrolibException: brut.common.BrutException: could not exec: [/var/folders/2x/dnmfc5h91jb5gwxw2ythwwwm0000gn/T/brut_util_Jar_6021574170602096068.tmp, p, --forced-package-id, 127, --min-sdk-version, 14, --target-sdk-version, 21, --version-code, 1, --version-name, 1.0, --no-version-vectors, -F, /var/folders/2x/dnmfc5h91jb5gwxw2ythwwwm0000gn/T/APKTOOL2542082640497224927.tmp, -0, resources.arsc, -0, png, -0, arsc, -I, /var/folders/2x/dnmfc5h91jb5gwxw2ythwwwm0000gn/T/1.apk, -S, /Users/apple/Downloads/XploitSPY-master/server/app/factory/decompiled/res, -M, /Users/apple/Downloads/XploitSPY-master/server/app/factory/decompiled/AndroidManifest.xml]\n"
+      },
+      {
+        "time": "2025-04-20T11:09:13.004Z",
+        "type": "ERROR",
+        "message": "Build Failed - Build Command Failed - Command failed: java -jar \"/Users/apple/Downloads/XploitSPY-master/server/app/factory/apktool.jar\" b \"/Users/apple/Downloads/XploitSPY-master/server/app/factory/decompiled\" -o \"/Users/apple/Downloads/XploitSPY-master/server/assets/webpublic/build.apk\"\nbrut.androlib.AndrolibException: brut.common.BrutException: could not exec: [/var/folders/2x/dnmfc5h91jb5gwxw2ythwwwm0000gn/T/brut_util_Jar_16004237755111601095.tmp, p, --forced-package-id, 127, --min-sdk-version, 14, --target-sdk-version, 21, --version-code, 1, --version-name, 1.0, --no-version-vectors, -F, /var/folders/2x/dnmfc5h91jb5gwxw2ythwwwm0000gn/T/APKTOOL16266230889329550590.tmp, -0, arsc, -0, png, -0, arsc, -I, /Users/apple/Library/apktool/framework/1.apk, -S, /Users/apple/Downloads/XploitSPY-master/server/app/factory/decompiled/res, -M, /Users/apple/Downloads/XploitSPY-master/server/app/factory/decompiled/AndroidManifest.xml]\n"
+      },
+      {
+        "time": "2025-04-20T11:09:24.648Z",
+        "type": "ERROR",
+        "message": "Build Failed - Build Command Failed - Command failed: java -jar \"/Users/apple/Downloads/XploitSPY-master/server/app/factory/apktool.jar\" b \"/Users/apple/Downloads/XploitSPY-master/server/app/factory/decompiled\" -o \"/Users/apple/Downloads/XploitSPY-master/server/assets/webpublic/build.apk\"\nbrut.androlib.AndrolibException: brut.common.BrutException: could not exec: [/var/folders/2x/dnmfc5h91jb5gwxw2ythwwwm0000gn/T/brut_util_Jar_13782871505632350715.tmp, p, --forced-package-id, 127, --min-sdk-version, 14, --target-sdk-version, 21, --version-code, 1, --version-name, 1.0, --no-version-vectors, -F, /var/folders/2x/dnmfc5h91jb5gwxw2ythwwwm0000gn/T/APKTOOL1785572934599073558.tmp, -0, arsc, -0, png, -0, arsc, -I, /Users/apple/Library/apktool/framework/1.apk, -S, /Users/apple/Downloads/XploitSPY-master/server/app/factory/decompiled/res, -M, /Users/apple/Downloads/XploitSPY-master/server/app/factory/decompiled/AndroidManifest.xml]\n"
+      },
+      {
+        "time": "2025-04-20T11:14:30.575Z",
+        "type": "ERROR",
+        "message": "Build Failed - Sign Command Failed - Command failed: java -jar \"/Users/apple/Downloads/XploitSPY-master/server/app/factory/uber-apk-signer-1.1.0.jar\" -a  \"/Users/apple/Downloads/XploitSPY-master/server/assets/webpublic/build.apk\" --ks \"/Users/apple/Downloads/XploitSPY-master/server/app/factory/release.jks\"  --ksAlias key0 --ksPass release101 --ksKeyPass release101 --out  \"/Users/apple/Downloads/XploitSPY-master/server/assets/webpublic\"\ncould not execute zipalign\nRun with '--debug' parameter to get additional information.\n"
+      },
+      {
+        "time": "2025-04-20T11:21:44.644Z",
+        "type": "ERROR",
+        "message": "Build Failed - Sign Command Failed - Command failed: java -jar \"/Users/apple/Downloads/XploitSPY-master/server/app/factory/uber-apk-signer-1.1.0.jar\" -a  \"/Users/apple/Downloads/XploitSPY-master/server/assets/webpublic/build.apk\" --ks \"/Users/apple/Downloads/XploitSPY-master/server/app/factory/release.jks\"  --ksAlias key0 --ksPass release101 --ksKeyPass release101 --out  \"/Users/apple/Downloads/XploitSPY-master/server/assets/webpublic\"\ncould not execute zipalign\nRun with '--debug' parameter to get additional information.\n"
+      },
+      {
+        "time": "2025-04-20T11:31:38.904Z",
+        "type": "ERROR",
+        "message": "Build Failed - Sign Command Failed - Command failed: java -jar \"/Users/apple/Downloads/XploitSPY-master/server/app/factory/uber-apk-signer-1.1.0.jar\" -a  \"/Users/apple/Downloads/XploitSPY-master/server/assets/webpublic/build.apk\" --ks \"/Users/apple/Downloads/XploitSPY-master/server/app/factory/release.jks\"  --ksAlias key0 --ksPass release101 --ksKeyPass release101 --out  \"/Users/apple/Downloads/XploitSPY-master/server/assets/webpublic\"\ncould not execute zipalign\nRun with '--debug' parameter to get additional information.\n"
+      },
+      {
+        "time": "2025-04-20T11:36:13.810Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2025-04-20T11:56:19.903Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      }
+    ],
+    "ipLog": []
+  },
+  "clients": []
+}
