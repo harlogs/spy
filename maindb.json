@@ -2,7 +2,7 @@
   "admin": {
     "username": "admin",
     "password": "5f4dcc3b5aa765d61d8327deb882cf99",
-    "loginToken": "6cc64e4a6211bb899b60ddfc8d3179eb",
+    "loginToken": "abf908c27a687cb4e7a4092e27de2704",
     "logs": [
       {
         "time": "2020-01-11T15:23:07.971Z",
@@ -61,6 +61,26 @@
       },
       {
         "time": "2025-04-20T11:56:19.903Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2025-04-21T05:59:57.683Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2025-04-21T11:39:05.285Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2025-04-21T11:40:06.582Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2025-04-21T11:40:36.237Z",
         "type": "SUCCESS",
         "message": "Build Succeded!"
       }
